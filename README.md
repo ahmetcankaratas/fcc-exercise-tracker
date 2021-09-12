@@ -1,5 +1,11 @@
 # Exercise Tracker REST API
 
+### Overview
+
+This project was created for APIs and Microservices" certification on freeCodeCamp.
+
+LIVE LINK: https://fcc--exercise--tracker.glitch.me/
+
 ### User Stories
 
 1. I can create a user by posting form data username to /api/exercise/new-user and returned will be an object with username and _id.
